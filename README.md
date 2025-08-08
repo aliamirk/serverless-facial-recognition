@@ -47,8 +47,6 @@ The system has two main flows:
 
 ## 📷 Screenshots
 
-### System Architecture
-![Architecture Diagram Placeholder](./images/face-recognition-aws-drawio.png)
 
 ### React Frontend
 ![React Frontend Placeholder](./images/frontend.jpeg)
