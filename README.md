@@ -7,7 +7,7 @@ The system uses **Amazon S3**, **AWS Lambda**, **Amazon Rekognition**, **Amazon 
 
 ## 📌 Architecture
 
-![Architecture Diagram Placeholder](./images/face-recognition-aws-drawio.png)
+![Architecture Diagram Placeholder](./images/face-recognition-aws.drawio.png)
 
 The system has two main flows:
 
